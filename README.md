@@ -3,7 +3,7 @@
 # Introdução
 Esse Projeto foi desenvolvido na Maratona Explorer da Rocketseat. Uma semana (De 06 a 12 de junho de 2022) desenvolvendo uma aplicação completa do zero.
 
-<a href=https://maratona-explorer-ticket.rocketseat.com.br/ticket/patriciasilvadev/share">Meu Ticket</a>
+<a href="https://maratona-explorer-ticket.rocketseat.com.br/ticket/patriciasilvadev/share">Meu Ticket</a>
 
 # Objetivo
 O objetivo da Maratona foi mostrar para nós Devs como iniciar do jeito certo: Dominando os fundamentos da programação. 
