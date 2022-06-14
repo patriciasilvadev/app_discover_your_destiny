@@ -1,4 +1,4 @@
-<img src="Maratona Explorer  - 2560x1080.png" alt="Projeto Descubra seu Destino - Maratona Explorer #1">
+<img src="Maratona Explorer.jpg" alt="Projeto Descubra seu Destino - Maratona Explorer #1">
 
 # Introdução
 Esse Projeto foi desenvolvido na Maratona Explorer da Rocketseat. Uma semana (De 06 a 12 de junho de 2022) desenvolvendo uma aplicação completa do zero.
